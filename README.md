@@ -12,8 +12,8 @@
 - 🏫 **Birla Vishwakarma Mahavidyalaya**  
 - 📅 **Expected Graduation: 2027**  
 - 💻 Passionate **Web Developer**
-- 🌱 Learning **MERN Stack & AI + Web**
-- 🧠 Love building real-world projects
+- 🌱 Currently learning **MERN Stack & AI + Web**
+- 🚀 Interested in building real-world, scalable projects
 
 ---
 
@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,java,c,cpp,js,php" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 </p>
@@ -37,10 +37,10 @@
 ---
 
 ## 🎯 Career Focus
-- 🌐 **Web Development**
-- ⚛️ **MERN Stack Projects**
-- 🤖 **AI + Web Integration**
-- 🏢 Future goal: **Tech roles / Government IT (NIC)**
+- 🌐 Web Development  
+- ⚛️ MERN Stack Applications  
+- 🤖 AI + Web Integration  
+- 🏢 Future goal: **Tech roles / Government IT (NIC)**  
 
 ---
 
@@ -54,21 +54,31 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaivik2005&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=jaivik2005&theme=radical&border_radius=10" />
 </p>
+
+<img src="https://streak-stats.demolab.com?user=jaivik2005&theme=radical&hide_border=true"/>
+
 
 ---
 
 ## 🌐 Connect With Me
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:jaivik2005@users.noreply.github.com">
+  <a href="http://jaivik.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jaivik-prajapati-115362284" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:jaivikprajapati82@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.instagram.com/jaivik_2005" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
 
 ---
 
 ## ✨ Quote
-> *“Learning never exhausts the mind — it ignites it.”* 🔥
+> *“Code. Learn. Build. Repeat.”* 🚀
