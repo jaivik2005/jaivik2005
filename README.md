@@ -60,20 +60,38 @@
 ---
 
 ## 🌐 Connect With Me
+## 🌐 Connect With Me
 <p>
   <a href="http://jaivik.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
+
   <a href="https://www.linkedin.com/in/jaivik-prajapati-115362284" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
+
   <a href="mailto:jaivikprajapati82@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
+
   <a href="https://www.instagram.com/jaivik_2005" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
+
+  <a href="https://twitter.com/jaivik2005" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x"/>
+  </a>
+
+  <a href="https://leetcode.com/jaivik_2005" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+  </a>
 </p>
+
+## 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jaivik_2005?theme=dark&font=Karma&ext=contest" />
+</p>
+
 
 ---
 
