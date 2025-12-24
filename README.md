@@ -55,7 +55,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jaivik2005&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=jaivik2005&theme=radical" />
 </p>
 
 
