@@ -54,12 +54,13 @@
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=jaivik2005&theme=radical&hide_border=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jaivik2005&theme=radical&hide_border=true" />
+</p>
 
 
 ---
 
-## 🌐 Connect With Me
 ## 🌐 Connect With Me
 <p>
   <a href="http://jaivik.xyz/" target="_blank">
